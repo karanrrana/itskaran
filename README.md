@@ -1,4 +1,4 @@
-<div id="header" align="center">
+#<div id="header" align="center">
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/karan-rana-970393208/">
@@ -29,7 +29,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :seedling: I am a certified Content Writer .
 
-- :zap: In my free time, I solve problems on LeetCode and make APIs.
+- :zap: In my free time, I solve problems on LeetCode and play valorant. I am also a gamer by hobby
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karan-rana-970393208/)
 
